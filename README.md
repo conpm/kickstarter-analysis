@@ -1,5 +1,6 @@
 # kickstarter-analysis
-
+---
+# Analysis of Kickstarter Theater Campaigns
 ## Overview of Project
 
 ### Purpose
